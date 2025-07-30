@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: switchboard-plug-bluetooth\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-28 20:26+0000\n"
-"PO-Revision-Date: 2025-06-26 09:55+0000\n"
+"PO-Revision-Date: 2025-07-31 00:55+0000\n"
 "Last-Translator: TomiOhl <ohlslager.tom@gmail.com>\n"
 "Language-Team: Hungarian <https://l10n.elementaryos.org/projects/settings/"
-"switchboard-plug-bluetooth/hu/>\n"
+"bluetooth/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,14 +29,12 @@ msgid "Configure Bluetooth Settings"
 msgstr "Bluetooth-beállítások kezelése"
 
 #: src/MainView.vala:49
-#, fuzzy
-#| msgid "Paired Devices"
 msgid "No Paired Devices"
-msgstr "Párosított eszközök"
+msgstr "Nincsenek párosított eszközök"
 
 #: src/MainView.vala:50
 msgid "Bluetooth devices will appear here when paired with this device."
-msgstr ""
+msgstr "Itt fognak megjelenni a párosított Bluetooth-eszközök."
 
 #: src/MainView.vala:64
 msgid "No Devices Found"
