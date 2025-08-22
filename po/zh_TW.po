@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: switchboard-plug-bluetooth\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-28 20:26+0000\n"
-"PO-Revision-Date: 2024-09-14 02:16+0000\n"
+"PO-Revision-Date: 2025-08-22 15:58+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
-"Language-Team: Chinese (Traditional) <https://l10n.elementary.io/projects/"
-"switchboard/switchboard-plug-bluetooth/zh_Hant/>\n"
+"Language-Team: Chinese (Traditional Han script) <https://"
+"l10n.elementaryos.org/projects/settings/bluetooth/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.11.4\n"
 "X-Launchpad-Export-Date: 2016-12-19 05:54+0000\n"
 
 #: src/Plug.vala:34 src/MainView.vala:20
@@ -29,14 +29,12 @@ msgid "Configure Bluetooth Settings"
 msgstr "調整藍牙設定"
 
 #: src/MainView.vala:49
-#, fuzzy
-#| msgid "Paired Devices"
 msgid "No Paired Devices"
-msgstr "已配對的裝置"
+msgstr "沒有已配對的裝置"
 
 #: src/MainView.vala:50
 msgid "Bluetooth devices will appear here when paired with this device."
-msgstr ""
+msgstr "藍牙裝置在與此裝置配對之後會顯示於此。"
 
 #: src/MainView.vala:64
 msgid "No Devices Found"
@@ -77,10 +75,8 @@ msgid "Confirm Bluetooth Pairing"
 msgstr "確認藍牙配對"
 
 #: src/PairDialog.vala:54
-#, fuzzy
-#| msgid "Confirm Bluetooth Passkey"
 msgid "Enter Bluetooth Passkey"
-msgstr "確認藍牙通關碼"
+msgstr "輸入藍牙通關碼"
 
 #: src/PairDialog.vala:65
 msgid "Confirm Bluetooth Passkey"
