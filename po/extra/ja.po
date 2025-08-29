@@ -8,24 +8,24 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-28 20:26+0000\n"
-"PO-Revision-Date: 2024-12-12 05:36+0000\n"
+"PO-Revision-Date: 2025-08-30 22:55+0000\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
-"Language-Team: Japanese <https://l10n.elementary.io/projects/switchboard/"
+"Language-Team: Japanese <https://l10n.elementaryos.org/projects/settings/"
 "bluetooth-plug-extra/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.8.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: data/bluetooth.metainfo.xml.in:10
 msgid "Bluetooth Settings"
-msgstr "Bluetooth の設定"
+msgstr "Bluetooth 設定"
 
 #: data/bluetooth.metainfo.xml.in:11
 msgid "Configure Bluetooth Settings"
-msgstr "Bluetooth の設定をします"
+msgstr "Bluetooth を設定します"
 
 #: data/bluetooth.metainfo.xml.in:28
 msgid "elementary, Inc."
