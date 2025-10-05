@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: switchboard-plug-bluetooth\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-28 20:26+0000\n"
-"PO-Revision-Date: 2024-07-22 09:16+0000\n"
+"PO-Revision-Date: 2025-10-06 12:55+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
-"Language-Team: Hebrew <https://l10n.elementary.io/projects/switchboard/"
-"switchboard-plug-bluetooth/he/>\n"
+"Language-Team: Hebrew <https://l10n.elementaryos.org/projects/settings/"
+"bluetooth/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.11.4\n"
 "X-Launchpad-Export-Date: 2016-12-19 05:54+0000\n"
 
 #: src/Plug.vala:34 src/MainView.vala:20
@@ -29,14 +29,12 @@ msgid "Configure Bluetooth Settings"
 msgstr "הגדרת תצורת בלוטות׳"
 
 #: src/MainView.vala:49
-#, fuzzy
-#| msgid "Paired Devices"
 msgid "No Paired Devices"
-msgstr "התקנים מצומדים"
+msgstr "אין התקנים מצומדים"
 
 #: src/MainView.vala:50
 msgid "Bluetooth devices will appear here when paired with this device."
-msgstr ""
+msgstr "התקני הבלוטות׳ יופיעו כאן כשיצומדו עם המכשיר הזה."
 
 #: src/MainView.vala:64
 msgid "No Devices Found"
@@ -77,10 +75,8 @@ msgid "Confirm Bluetooth Pairing"
 msgstr "אישור צימוד בלוטות׳"
 
 #: src/PairDialog.vala:54
-#, fuzzy
-#| msgid "Confirm Bluetooth Passkey"
 msgid "Enter Bluetooth Passkey"
-msgstr "אישור מפתח צופן בלוטות׳"
+msgstr "מילוי מפתח צופן בלוטות׳"
 
 #: src/PairDialog.vala:65
 msgid "Confirm Bluetooth Passkey"
