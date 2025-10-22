@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-28 20:26+0000\n"
-"PO-Revision-Date: 2025-10-22 05:26+0000\n"
+"PO-Revision-Date: 2025-10-22 09:59+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "bluetooth-plug-extra/sv/>\n"
@@ -20,10 +20,8 @@ msgstr ""
 "X-Generator: Weblate 5.11.4\n"
 
 #: data/bluetooth.metainfo.xml.in:10
-#, fuzzy
-#| msgid "Configure Bluetooth Settings"
 msgid "Bluetooth Settings"
-msgstr "Konfigurera Bluetooth-inställningar"
+msgstr "Bluetooth-inställningar"
 
 #: data/bluetooth.metainfo.xml.in:11
 msgid "Configure Bluetooth Settings"
@@ -37,7 +35,7 @@ msgstr "elementary, Inc."
 #: data/bluetooth.metainfo.xml.in:59 data/bluetooth.metainfo.xml.in:73
 #: data/bluetooth.metainfo.xml.in:91 data/bluetooth.metainfo.xml.in:106
 msgid "Minor updates"
-msgstr ""
+msgstr "Mindre uppdateringar"
 
 #: data/bluetooth.metainfo.xml.in:38 data/bluetooth.metainfo.xml.in:52
 #: data/bluetooth.metainfo.xml.in:62 data/bluetooth.metainfo.xml.in:75
@@ -47,37 +45,39 @@ msgstr "Uppdaterade översättningar"
 
 #: data/bluetooth.metainfo.xml.in:61
 msgid "Fix missing link to audio settings for some headphones"
-msgstr ""
+msgstr "Fixar saknad länk till ljudinställningar för vissa hörlurar"
 
 #: data/bluetooth.metainfo.xml.in:82
 msgid "Security update"
-msgstr ""
+msgstr "Säkerhetsuppdatering"
 
 #: data/bluetooth.metainfo.xml.in:84
 msgid ""
 "Fix a vulnerability that would allow a device to be paired without explicit "
 "user authorization (CVE-2021-21367)"
 msgstr ""
+"Åtgärda en sårbarhet som gör det möjligt att para ihop en enhet utan "
+"uttrycklig användarauktorisering (CVE-2021-21367)"
 
 #: data/bluetooth.metainfo.xml.in:93
 msgid "Fallback to device type when name is not available"
-msgstr ""
+msgstr "Fallback till enhetstyp när namn inte är tillgängligt"
 
 #: data/bluetooth.metainfo.xml.in:94
 msgid "Show \"Discovering\" indicator in an overlay bar"
-msgstr ""
+msgstr "Visa \"Discovering\"-indikatorn i en överliggande stapel"
 
 #: data/bluetooth.metainfo.xml.in:102
 msgid "Fixes"
-msgstr ""
+msgstr "Fixar"
 
 #: data/bluetooth.metainfo.xml.in:104
 msgid "Fix crash on devices without Bluetooth"
-msgstr ""
+msgstr "Fixa krasch på enheter utan Bluetooth"
 
 #: data/bluetooth.metainfo.xml.in:108
 msgid "Move \"forget device\" button to each device row"
-msgstr ""
+msgstr "Flytta \"glöm enhet\"-knappen till varje enhetsrad"
 
 #~ msgid "Bluetooth"
 #~ msgstr "Bluetooth"
