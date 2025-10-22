@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: switchboard-plug-bluetooth\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-28 20:26+0000\n"
-"PO-Revision-Date: 2020-10-28 11:22+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
-"Language-Team: Swedish <https://l10n.elementary.io/projects/switchboard/"
-"switchboard-plug-bluetooth/sv/>\n"
+"PO-Revision-Date: 2025-10-22 09:59+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
+"bluetooth/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9.1\n"
+"X-Generator: Weblate 5.11.4\n"
 "X-Launchpad-Export-Date: 2016-12-20 05:16+0000\n"
 
 #: src/Plug.vala:34 src/MainView.vala:20
@@ -29,14 +29,12 @@ msgid "Configure Bluetooth Settings"
 msgstr "Konfigurera Bluetooth-inställningar"
 
 #: src/MainView.vala:49
-#, fuzzy
-#| msgid "Paired Devices"
 msgid "No Paired Devices"
-msgstr "Parade enheter"
+msgstr "Inga parade enheter"
 
 #: src/MainView.vala:50
 msgid "Bluetooth devices will appear here when paired with this device."
-msgstr ""
+msgstr "Bluetooth-enheter visas här när de har parats ihop med den här enheten."
 
 #: src/MainView.vala:64
 msgid "No Devices Found"
@@ -73,33 +71,30 @@ msgid "Not discoverable"
 msgstr "Inte sökbar"
 
 #: src/PairDialog.vala:43
-#, fuzzy
 msgid "Confirm Bluetooth Pairing"
-msgstr "Konfigurera Bluetooth-inställningar"
+msgstr "Bekräfta Bluetooth-parkoppling"
 
 #: src/PairDialog.vala:54
-#, fuzzy
 msgid "Enter Bluetooth Passkey"
-msgstr "Konfigurera Bluetooth-inställningar"
+msgstr "Ange Bluetooth-passnyckel"
 
 #: src/PairDialog.vala:65
-#, fuzzy
 msgid "Confirm Bluetooth Passkey"
-msgstr "Konfigurera Bluetooth-inställningar"
+msgstr "Bekräfta Bluetooth-passnyckeln"
 
 #: src/PairDialog.vala:76
-#, fuzzy
 msgid "Enter Bluetooth PIN"
-msgstr "Bluetooth"
+msgstr "Ange Bluetooth PIN-kod"
 
 #: src/PairDialog.vala:83
 msgid "Unknown Bluetooth Device"
-msgstr ""
+msgstr "Okänd Bluetooth-enhet"
 
 #: src/PairDialog.vala:104
 #, c-format
 msgid "Make sure the code displayed on “%s” matches the one below."
 msgstr ""
+"Kontrollera att koden som visas på \"%s\" överensstämmer med koden nedan."
 
 #: src/PairDialog.vala:106 src/PairDialog.vala:118 src/DeviceRow.vala:286
 msgid "Pair"
@@ -108,12 +103,12 @@ msgstr "Para"
 #: src/PairDialog.vala:112
 #, c-format
 msgid "Type the code displayed below on “%s”, followed by Enter."
-msgstr ""
+msgstr "Skriv in koden som visas nedan på \"%s\" och tryck sedan på Enter."
 
 #: src/PairDialog.vala:116
 #, c-format
 msgid "“%s” would like to pair with this device."
-msgstr ""
+msgstr "\"%s\" vill para ihop sig med den här enheten."
 
 #: src/DeviceRow.vala:41
 msgid "Available"
@@ -136,7 +131,6 @@ msgid "Disconnecting…"
 msgstr "Kopplar från…"
 
 #: src/DeviceRow.vala:52
-#, fuzzy
 msgid "Unable to Connect"
 msgstr "Det går inte att ansluta"
 
@@ -150,7 +144,7 @@ msgstr "Högtalare"
 
 #: src/DeviceRow.vala:101
 msgid "Controller"
-msgstr ""
+msgstr "Kontroller"
 
 #: src/DeviceRow.vala:104
 msgid "Keyboard"
@@ -162,7 +156,7 @@ msgstr "Mus"
 
 #: src/DeviceRow.vala:110
 msgid "Tablet"
-msgstr ""
+msgstr "Ritplatta"
 
 #: src/DeviceRow.vala:113
 msgid "Touchpad"
@@ -170,12 +164,11 @@ msgstr "Pekplatta"
 
 #: src/DeviceRow.vala:116
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 #: src/DeviceRow.vala:141
-#, fuzzy
 msgid "Forget this device"
-msgstr "Glöm vald enhet"
+msgstr "Glöm den här enheten"
 
 #: src/DeviceRow.vala:169
 msgid "Sound Settings"
