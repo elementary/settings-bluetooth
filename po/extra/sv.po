@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-28 20:26+0000\n"
-"PO-Revision-Date: 2025-10-22 09:59+0000\n"
+"PO-Revision-Date: 2025-10-30 09:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "bluetooth-plug-extra/sv/>\n"
@@ -61,11 +61,11 @@ msgstr ""
 
 #: data/bluetooth.metainfo.xml.in:93
 msgid "Fallback to device type when name is not available"
-msgstr "Fallback till enhetstyp när namn inte är tillgängligt"
+msgstr "Fall tillbaka på enhetstyp när namn inte är tillgängligt"
 
 #: data/bluetooth.metainfo.xml.in:94
 msgid "Show \"Discovering\" indicator in an overlay bar"
-msgstr "Visa \"Discovering\"-indikatorn i en överliggande stapel"
+msgstr "Visa \"Upptäcker\"-indikatorn i en överliggande stapel"
 
 #: data/bluetooth.metainfo.xml.in:102
 msgid "Fixes"
