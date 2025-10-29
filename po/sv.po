@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: switchboard-plug-bluetooth\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-28 20:26+0000\n"
-"PO-Revision-Date: 2025-10-22 09:59+0000\n"
+"PO-Revision-Date: 2025-10-30 09:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "bluetooth/sv/>\n"
@@ -30,7 +30,7 @@ msgstr "Konfigurera Bluetooth-inställningar"
 
 #: src/MainView.vala:49
 msgid "No Paired Devices"
-msgstr "Inga parade enheter"
+msgstr "Inga ihopparade enheter"
 
 #: src/MainView.vala:50
 msgid "Bluetooth devices will appear here when paired with this device."
@@ -38,15 +38,15 @@ msgstr "Bluetooth-enheter visas här när de har parats ihop med den här enhete
 
 #: src/MainView.vala:64
 msgid "No Devices Found"
-msgstr "Inga enheter funna"
+msgstr "Inga enheter hittades"
 
 #: src/MainView.vala:65
 msgid "Please ensure that your devices are visible and ready for pairing."
-msgstr "Försäkra dig om att dina enheter är synliga och redo att paras."
+msgstr "Försäkra dig om att dina enheter är synliga och redo att paras ihop."
 
 #: src/MainView.vala:79
 msgid "Paired Devices"
-msgstr "Parade enheter"
+msgstr "Ihopparade enheter"
 
 #: src/MainView.vala:84
 msgid "Nearby Devices"
@@ -56,7 +56,7 @@ msgstr "Enheter i närheten"
 #: src/MainView.vala:215
 #, c-format
 msgid "Now discoverable as \"%s\". Not discoverable when this page is closed"
-msgstr "Nu sökbar som \"%s\". Inte sökbar när den här sidan är stängd"
+msgstr "Nu upptäckbar som \"%s\". Inte upptäckbar när den här sidan är stängd"
 
 #: src/MainView.vala:215
 msgid "Unknown"
@@ -64,11 +64,11 @@ msgstr "Okänd"
 
 #: src/MainView.vala:217
 msgid "Not discoverable while Bluetooth is powered off"
-msgstr "Inte sökbar medan Bluetooth är avslaget"
+msgstr "Inte upptäckbar när Bluetooth är avstängt"
 
 #: src/MainView.vala:219
 msgid "Not discoverable"
-msgstr "Inte sökbar"
+msgstr "Inte upptäckbar"
 
 #: src/PairDialog.vala:43
 msgid "Confirm Bluetooth Pairing"
@@ -76,11 +76,11 @@ msgstr "Bekräfta Bluetooth-parkoppling"
 
 #: src/PairDialog.vala:54
 msgid "Enter Bluetooth Passkey"
-msgstr "Ange Bluetooth-passnyckel"
+msgstr "Ange Bluetooth-inloggningsnyckel"
 
 #: src/PairDialog.vala:65
 msgid "Confirm Bluetooth Passkey"
-msgstr "Bekräfta Bluetooth-passnyckeln"
+msgstr "Bekräfta Bluetooth-inloggningsnyckel"
 
 #: src/PairDialog.vala:76
 msgid "Enter Bluetooth PIN"
@@ -98,7 +98,7 @@ msgstr ""
 
 #: src/PairDialog.vala:106 src/PairDialog.vala:118 src/DeviceRow.vala:286
 msgid "Pair"
-msgstr "Para"
+msgstr "Para ihop"
 
 #: src/PairDialog.vala:112
 #, c-format
@@ -116,7 +116,7 @@ msgstr "Tillgänglig"
 
 #: src/DeviceRow.vala:43
 msgid "Pairing…"
-msgstr "Parar…"
+msgstr "Parar ihop…"
 
 #: src/DeviceRow.vala:45
 msgid "Connected"
@@ -144,7 +144,7 @@ msgstr "Högtalare"
 
 #: src/DeviceRow.vala:101
 msgid "Controller"
-msgstr "Kontroller"
+msgstr "Handkontroller"
 
 #: src/DeviceRow.vala:104
 msgid "Keyboard"
