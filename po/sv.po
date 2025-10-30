@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: switchboard-plug-bluetooth\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-28 20:26+0000\n"
-"PO-Revision-Date: 2025-10-30 09:55+0000\n"
+"PO-Revision-Date: 2025-10-31 10:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "bluetooth/sv/>\n"
@@ -60,7 +60,7 @@ msgstr "Nu upptäckbar som \"%s\". Inte upptäckbar när den här sidan är stä
 
 #: src/MainView.vala:215
 msgid "Unknown"
-msgstr "Okänd"
+msgstr "Okänt"
 
 #: src/MainView.vala:217
 msgid "Not discoverable while Bluetooth is powered off"
