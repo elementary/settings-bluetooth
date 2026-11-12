@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-03 02:50+0000\n"
-"PO-Revision-Date: 2026-10-24 20:04+0000\n"
+"PO-Revision-Date: 2026-11-13 21:04+0000\n"
 "Last-Translator: CodeBeats <nicholai67@hotmail.com>\n"
 "Language-Team: Danish <https://l10n.elementaryos.org/projects/settings/"
 "bluetooth-plug-extra/da/>\n"
@@ -45,11 +45,11 @@ msgstr "Opdaterede oversættelser"
 
 #: data/bluetooth.metainfo.xml.in:61
 msgid "Fix missing link to audio settings for some headphones"
-msgstr ""
+msgstr "Ret manglende link til lydindstillinger for visse hovedtelefoner"
 
 #: data/bluetooth.metainfo.xml.in:82
 msgid "Security update"
-msgstr ""
+msgstr "Sikkerhedsopdatering"
 
 #: data/bluetooth.metainfo.xml.in:84
 msgid ""
@@ -67,7 +67,7 @@ msgstr ""
 
 #: data/bluetooth.metainfo.xml.in:102
 msgid "Fixes"
-msgstr ""
+msgstr "Rettelser"
 
 #: data/bluetooth.metainfo.xml.in:104
 msgid "Fix crash on devices without Bluetooth"
